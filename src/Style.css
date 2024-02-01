@@ -1,0 +1,152 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#qq {
+    color: aqua;
+}
+
+.a th {
+    width: 200px;
+    text-align: center;
+}
+
+.b td {
+    text-align: center;
+    width: 200px;
+}
+
+#qqq td input {
+    width: 100px;
+}
+
+.ttt {
+    width: 100px;
+    text-align: center;
+}
+
+.bill {
+
+    border: 1px solid black;
+
+}
+
+.left_column {
+
+    border: 2px solid blue;
+
+}
+
+.right_column {
+
+    border: 2px solid blue;
+    position: fixed;
+    right: 0;
+    top: 0;
+
+}
+
+#foot {
+    display: flex;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: blueviolet;
+
+}
+
+/* #foot h2{
+    padding: 10px;
+} */
+.jjjj {
+    width: 100%;
+
+}
+
+.d1 {
+    width: 150px;
+}
+
+.tamount {
+    display: flex;
+    background-color: greenyellow;
+    width: 100%;
+    padding: 10px;
+
+}
+
+.tamount h3 {
+    margin-left: auto;
+
+}
+
+.tamount h5 {
+
+
+    margin-top: auto;
+
+}
+
+.Amaunt {
+    margin: 0px 20px;
+}
+
+.ioio {
+    margin-top: 10px;
+}
+
+#kjkj button {
+    margin: 10px
+}
+
+#kjkj {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.adad td {
+    width: 120px;
+}
+
+.uyuy {
+    text-align: center;
+}
+
+#input_search {
+    width: 100%;
+    margin: 5px 0px;
+}
+
+.kkkkk {
+    border: 1px solid black;
+    text-align: center;
+    width: 60%;
+}
+.kkkkk2{
+    border-top: 1px dashed black;
+    border-bottom: 1px dashed black;
+
+  
+}
+.kkkkk3{
+  
+    border-bottom: 1px solid black;
+
+  
+}
+
+
+.kkkkk td {
+    text-align: center;
+
+
+
+}
+#dede{
+border-bottom:1px solid black ;
+  width: 100%;
+}

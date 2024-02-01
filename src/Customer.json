@@ -1,0 +1,17 @@
+[
+    {
+        "name":"ABC",
+        "address":"baramati",
+        "mobile":9999999999
+    },
+    {
+        "name":"PQR",
+        "address":"Pune",
+        "mobile":8888888888
+    },
+    {
+        "name":"XYA",
+        "address":"Nira",
+        "mobile":7777777777
+    }
+]

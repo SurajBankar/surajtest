@@ -1,0 +1,26 @@
+[
+    {
+        "name": "abc",
+        "marathi": 40,
+        "hindi": 40,
+        "english": 40,
+        "math": 40,
+        "histoty": 40
+    },
+    {
+        "name": "bbb",
+        "marathi": 50,
+        "hindi": 50,
+        "english": 50,
+        "math": 50,
+        "histoty": 50
+    },
+    {
+        "name": "ccc",
+        "marathi": 60,
+        "hindi": 60,
+        "english": 60,
+        "math": 60,
+        "histoty": 60
+    }
+]

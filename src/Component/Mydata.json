@@ -1,0 +1,51 @@
+[
+    {
+        "sr":1,
+        "name":"aaa",
+        "marathi":70,
+        "hindi":65,
+        "english":50,
+        "history":70,
+        "math":75
+    },
+    
+    {
+        "sr":2,
+        "name":"bbb",
+        "marathi":72,
+        "hindi":62,
+        "english":52,
+        "history":72,
+        "math":72
+    },
+    
+    {
+        "sr":3,
+        "name":"ccc",
+        "marathi":74,
+        "hindi":64,
+        "english":54,
+        "history":74,
+        "math":74
+    },
+    
+    {
+        "sr":4,
+        "name":"ddd",
+        "marathi":76,
+        "hindi":66,
+        "english":56,
+        "history":76,
+        "math":76
+    },
+    
+    {
+        "sr":5,
+        "name":"eee",
+        "marathi":78,
+        "hindi":68,
+        "english":58,
+        "history":78,
+        "math":78
+    }
+]

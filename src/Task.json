@@ -1,0 +1,32 @@
+[
+    {
+        "name":"साखर",
+        "price":80,
+        "SalePrice":70,
+        "count":1
+    },
+    {
+        "name":"तेल",
+        "price":100,
+        "SalePrice":90,
+        "count":1
+    },
+    {
+        "name":"मीठ",
+        "price":50,
+        "SalePrice":40,
+        "count":1
+    },
+    {
+        "name":"गायछाप",
+        "price":15,
+        "SalePrice":10,
+        "count":1
+    },
+    {
+        "name":"विमल",
+        "price":20,
+        "SalePrice":15,
+        "count":1
+    }
+]

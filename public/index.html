@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/bootstrap.css">
+  <script src="js/main.js"></script>
+
+</head>
+
+<body id="r1">
+  <div id="jjj">
+    <h1>Mydata</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At nihil, officiis mollitia perspiciatis est iure nam
+      fugit adipisci beatae totam possimus quam odio temporibus impedit dignissimos consectetur. Nesciunt, praesentium
+      cupiditate?</p>
+
+  </div>
+
+  <button onclick="aa()">SHOW</button>
+  <div id="oooo">
+
+  </div>
+
+  <script>
+  const DDD=()=>{
+
+  }
+    function aa() {
+      alert("qq")
+      var a = document.getElementById("jjj").innerHTML
+      document.getElementById("oooo").innerHTML = a;
+
+      var c = window.open('', '', 'height=500, width=300');
+      // c.document.write('<html>'); 
+      // c.document.write('<body > <h1>Div contents are <br>'); 
+        c.style.margin="100"
+      c.document.write(a);
+      // c.document.write('</body></html>'); 
+      // c.document.close(); 
+      // c.print(); 
+
+    }
+  </script>
+</body>
+
+</html>
